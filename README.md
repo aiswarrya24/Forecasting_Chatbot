@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏪 SalesBot – Your AI-Powered Sales Assistant
 
 **SalesBot** is an interactive Streamlit chatbot that helps tenants and groups visualize, analyze, and forecast sales data using natural language. It integrates with MongoDB for real-time data and uses Groq's LLaMA 3 for smart query interpretation.
@@ -39,3 +40,6 @@ streamlit run app.py
 
 Then open the provided URL in your browser (usually http://localhost:8501).
 
+=======
+# Forecasting_Chatbot
+>>>>>>> b6f3a61ac073bdb6c56d8ac156634780b7c179be
